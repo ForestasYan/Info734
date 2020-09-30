@@ -1,0 +1,22 @@
+#texte{
+	color:#FF0000;
+	font-size:20px;
+	font-family: "Comic Sans MS";
+}
+
+#image{
+	margin-left: -7px;
+}
+
+#liste{
+	font-size:14px;
+	font-family: "Comic Sans MS";
+}
+
+#titre{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	font-size:30px;
+	font-family: "Comic Sans MS";
+}	
